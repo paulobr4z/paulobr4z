@@ -7,8 +7,6 @@
 
 ### Hi, I'm Paulo. Nice to meet you. 👋🏾
 
-I'm Paulo, a very passionate developer.. I really love to program! 💙 <br />
-As a self teached student, I am hungry to learn and play with new stuff all the time 👨‍💻 
 
 - 🔭 I’m currently studying accounting sciences at UNOPAR 8/8.
 - 🌱 I’m currently learning TypeScript, Node.js, React Native and React at Rocketseat.
