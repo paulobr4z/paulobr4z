@@ -5,7 +5,7 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5594981147978&text=Obrigado%20pelo%20Contato!)](https://api.whatsapp.com/send?phone=5594981147978&text=Obrigado%20pelo%20Contato!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulobrazaraujo@gmail.com)](mailto:paulobrazaraujo@gmail.com)
 
-### Hello 👋
+### Hi, I'm Paulo. Nice to meet you. 👋🏾
 
 I'm Paulo, a very passionate developer.. I really love to program! 💙 <br />
 As a self teached student, I am hungry to learn and play with new stuff all the time 👨‍💻 
