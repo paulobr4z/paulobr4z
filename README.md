@@ -1,3 +1,9 @@
+# Paulo Braz
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/paulobr4z)](https://github.com/paulobr4z)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulobr4z/)](https://www.linkedin.com/in/paulobr4z/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulobrazaraujo@gmail.com)](mailto:paulobrazaraujo@gmail.com)
+
 ### Hi there 👋
 
 <!--
