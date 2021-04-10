@@ -7,13 +7,13 @@
 
 ### Hi, My name is Paulo Braz, i am a frontend developer living Tucuruí, Pará. Nice to meet you. 👋🏾
 
+- I’m currently learning TypeScript, Node.js, React Native and React at Rocketseat.
+
  <div>
   <a href="https://github.com/paulobr4z">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulobr4z&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulobr4z&layout=compact&langs_count=8&theme=radical"/>
 <div>
-
-- I’m currently learning TypeScript, Node.js, React Native and React at Rocketseat.
 
 ### Technologies and tools
 
