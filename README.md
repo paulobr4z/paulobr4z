@@ -7,6 +7,12 @@
 
 ### Hi, My name is Paulo Braz, i am a frontend developer living Tucuruí, Pará. Nice to meet you. 👋🏾
 
+ <div>
+  <a href="https://github.com/paulobr4z">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulobr4z&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulobr4z&layout=compact&langs_count=8&theme=radical"/>
+<div>
+
 - I’m currently learning TypeScript, Node.js, React Native and React at Rocketseat.
 
 ### Technologies and tools
@@ -26,8 +32,3 @@
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />]()
 
 
- <div>
-  <a href="https://github.com/paulobr4z">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulobr4z&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulobr4z&layout=compact&langs_count=8&theme=radical"/>
-<div>
