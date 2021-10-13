@@ -5,7 +5,7 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5594981147978&text=Obrigado%20pelo%20Contato!)](https://api.whatsapp.com/send?phone=5594981147978&text=Obrigado%20pelo%20Contato!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulobrazaraujo@gmail.com)](mailto:paulobrazaraujo@gmail.com)
 
-### Hi, My name is Paulo Braz, i am a frontend developer living Tucuruí, Pará. Nice to meet you. 👋🏾
+### Hi, My name is Paulo Braz, i am a frontend developer living Tucuruí-Pa.
 
 - I’m currently learning TypeScript, Node.js, React Native and React at Rocketseat.
 
